@@ -1,0 +1,11 @@
+{
+  "hotkey": "<ctrl>+<alt>+<shift>+p",
+  "profiles": [
+    "G:/Documents/scripts/python/lemokeyswitcher/dist/profile1.json",
+    "G:/Documents/scripts/python/lemokeyswitcher/dist/profile2.json",
+    "G:/Documents/scripts/python/lemokeyswitcher/dist/profile3.json",
+    "G:/Documents/scripts/python/lemokeyswitcher/dist/profile4.json",
+    ""
+  ],
+  "current_index": 3
+}
